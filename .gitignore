@@ -1,0 +1,9 @@
+# Dependency Folders
+/node_modules
+
+# Environment Variables
+.env
+
+# Build Output
+/frontend/dist
+/admin/dist
